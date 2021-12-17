@@ -13,7 +13,7 @@ const Index = () => {
       <Seo title="Home" />
       <Layout>
         <BannerModule
-          title="Autofocals"
+          title="Adddutofocals"
           subTitle="A product based template system for GatsbyJS"
         />
         <BasicTextModule />
